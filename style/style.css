@@ -34,9 +34,9 @@ header {
 }
 .header-content a:hover {
 	box-shadow: 0 5px 10px rgba(0,0,0,0.2);
-}
+}/*mofif pixel padding*/
 .element-logo {
-	padding: 45px 0;
+	padding: 75px 0;
 	font-size: 55px;
 	color: #f76b8a;
 }
