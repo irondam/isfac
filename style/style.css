@@ -256,11 +256,11 @@ footer {
 	font-size: 15px;
 	padding-top: 15px;
 }
-.form-input {
+.form-input-test {
 	padding-bottom: 15px;
 	width: 500px;
 }
-.form-input label {
+.form-input-test label {
 	width: 25%;
 	vertical-align: top;
 	font-family: 'Montserrat', sans-serif;
@@ -268,7 +268,7 @@ footer {
 	color: #d3cece;
 	line-height: 30px;
 }
-.form-input input {
+.form-input-test input {
 	width: 75%;
 	height: 30px;
 	padding: 10px;
@@ -278,7 +278,7 @@ footer {
 	color: #FFF;
 	font-family: 'Montserrat', sans-serif;
 }
-.form-input textarea {
+.form-input-test textarea {
 	width: 75%;
 	padding: 10px;
 	float: right;
@@ -331,7 +331,7 @@ footer {
 	.icone-prestations {
 		top: -35%;
 	}
-	.form-input {
+	.form-input-test {
 		width: 400px;
 	}
 }
@@ -418,7 +418,7 @@ footer {
 		float: none;
 		margin-left: 125px;
 	}
-	.form-input {
+	.form-input-test {
 		width: 500px;
 	}
 }
@@ -530,13 +530,13 @@ footer {
 	.infos {
 		display: block;
 	}
-	.form-input {
+	.form-input-test {
 		max-width: 300px;
 	}
-	.form-input label {
+	.form-input-test label {
 		width: 100%;
 	}
-	.form-input	input, .form-input textarea {
+	.form-input-test	input, .form-input textarea {
 		width: 100%;
 		float: none;
 	}
