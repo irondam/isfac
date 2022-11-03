@@ -23,7 +23,7 @@ header {
 	display: inline-block;
 	flex-grow: 1;
 	padding: 35px 45px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Courier New', Courier, monospace;
 	font-weight: 300;
 	font-style: 30px;
 	line-height: 35px;
