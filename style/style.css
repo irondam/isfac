@@ -224,6 +224,7 @@ footer {
 	background-color: #61595b;
 	display: flex;
 	padding: 45px 100px;
+	margin: 20px;
 }
 .coordonnees {
 	color: #d3cece;		
