@@ -10,7 +10,7 @@ body {
 }
 /*Gestion du header*/
 header {
-	background-color: #fff;
+	background-color: rgb(146, 250, 210);
 }
 .header-content {
 	display: flex;
