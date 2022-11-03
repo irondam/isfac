@@ -55,22 +55,7 @@ header {
 	font-style: 18px;
 	font-weight: 600;
 }
-button.toggle-menu {
-	display: none;
-}
-/*On applique le même style au survol et lorsque la page est active*/
-.menu-header a:hover, .active {
-	background-color: #eaf6f6;
-	color: #75c5c5;
-	text-decoration: underline;
-}
-/*Propriétés identiques pour tous les élements du contenu de la page*/
-.content-item {
-	max-width: 1170px;
-	margin: 0 auto;
-	font-size: 0;
-	box-shadow: 0 10px 24px rgba(1,1,1,0.3);
-}
+
 .content-item .big-img {
 	width: 100%;
 }
