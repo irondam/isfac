@@ -6,7 +6,7 @@
 }
 /*Couleur de fond du body*/
 body {
-	background-color: pink;
+	background-color: blueviolet;
 }
 /*Gestion du header*/
 header {
@@ -27,16 +27,16 @@ header {
 	font-weight: 300;
 	font-style: 30px;
 	line-height: 35px;
-}/*pas modifié par virginie*/
+}
 .header-content a {
 	text-decoration: none;
 	color: #232323;
 }
 .header-content a:hover {
 	box-shadow: 0 5px 10px rgba(0,0,0,0.2);
-}/*mofif pixel padding*/
+}
 .element-logo {
-	padding: 75px 0;
+	padding: 45px 0;
 	font-size: 55px;
 	color: #f76b8a;
 }
