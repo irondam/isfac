@@ -6,7 +6,7 @@
 }
 /*Couleur de fond du body*/
 body {
-	background-color: #a5a0a0;
+	background-color: blueviolet;
 }
 /*Gestion du header*/
 header {
@@ -27,7 +27,7 @@ header {
 	font-weight: 300;
 	font-style: 30px;
 	line-height: 35px;
-}/*pas modifié par virginie*/
+}
 .header-content a {
 	text-decoration: none;
 	color: #232323;
@@ -55,22 +55,7 @@ header {
 	font-style: 18px;
 	font-weight: 600;
 }
-button.toggle-menu {
-	display: none;
-}
-/*On applique le même style au survol et lorsque la page est active*/
-.menu-header a:hover, .active {
-	background-color: #eaf6f6;
-	color: #75c5c5;
-	text-decoration: underline;
-}
-/*Propriétés identiques pour tous les élements du contenu de la page*/
-.content-item {
-	max-width: 1170px;
-	margin: 0 auto;
-	font-size: 0;
-	box-shadow: 0 10px 24px rgba(1,1,1,0.3);
-}
+
 .content-item .big-img {
 	width: 100%;
 }
@@ -239,6 +224,7 @@ footer {
 	background-color: #61595b;
 	display: flex;
 	padding: 45px 100px;
+	margin: 20px;
 }
 .coordonnees {
 	color: #d3cece;		
