@@ -5,8 +5,8 @@ jQuery(document).ready(function($) {
 	var message=$('#message');
 	var regexEmail= /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/; 
 	nom.blur(function(){
-		if(nom.val().length < 4){
-			$('<p>Votre nom doit comporter plus de 3 caractères</p>').appendTo('.erreurNom');
+		if(nom.val().length < 6){
+			$('<p>Votre nom doit comporter plus de 5 caractères</p>').appendTo('.erreurNom');
 		}
 	});
 	message.blur(function(){
